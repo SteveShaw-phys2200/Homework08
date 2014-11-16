@@ -1,0 +1,9 @@
+unset key
+set style data line
+
+set term png
+set o "glider-angle.png"
+set title "Horizontal Distance vs. Intinal Launch Angle"
+set xlabel "launch angle (radians)"
+set ylabel "range (charactoristic length)"
+plot "res-angle" u 3:4

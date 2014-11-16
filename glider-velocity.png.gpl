@@ -1,0 +1,12 @@
+unset key
+set style data line
+
+set term png
+set o "glider-velocity.png"
+set title "Horizontal Distance vs. Intinal Velocity"
+set xlabel "velocity (trim velocity)"
+set ylabel "range (charactoristic length)"
+set arrow 1 from 2.3,23 to 2,26.5
+set label 1 "max efficient velocity" at 2.35,22.75 left
+plot "res-velocity" u 2:4
+

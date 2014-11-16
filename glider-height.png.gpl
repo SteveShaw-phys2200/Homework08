@@ -1,0 +1,9 @@
+unset key
+set style data line
+
+set term png
+set o "glider-height.png"
+set title "Horizontal Distance vs. Intinal Altitude"
+set xlabel "altitude (charactoristic length)"
+set ylabel "range (charactoristic length)"
+plot "res-height" u 5:4
