@@ -3,7 +3,7 @@
 ####Aim of the project:
 1. Analize flight path of glider using diferential equations
 1. Conduct all calculations for a glider with the aerodynamic efficiency R = 10
-1. When producing data fiules for graphs, calculate at least 20 data points, more if the character of the graph
+1. When producing data files for graphs, calculate at least 20 data points, more if the character of the graph
 requires finer resolution
 1. Prepare gnuplot scripts to generate png graphs from data files
 1. Compilation of code, actual calculations, and graphs generation should be controlled by
