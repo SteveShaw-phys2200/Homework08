@@ -11,12 +11,12 @@ Makefile
 
 ![HW8 problem 1](https://github.com/SteveShaw-phys2200/Homework08/blob/master/glider-velocity.png)
 
-1. note max effecient velocity for R=10, glider scrubs speed by looping until reaching steady glide
+* note max effecient velocity for R=10, glider scrubs speed by looping until reaching steady glide
 
 ![HW8 problem 2](https://github.com/SteveShaw-phys2200/Homework08/blob/master/glider-angle.png)
 
-1. note glider has greatest range with slightly negitive launch angle, intial velocity + lift is directed best down range under these conditions
+* note glider has greatest range with slightly negitive launch angle, intial velocity + lift is directed best down range under these conditions
 
 ![HW8 problem 3](https://github.com/SteveShaw-phys2200/Homework08/blob/master/glider-height.png)
 
-1. note once glider srubs bit of speed it enters steady dive
+* note once glider srubs bit of speed it enters steady dive
